@@ -2,9 +2,9 @@
   "name": "grading-app-backend",
   "version": "1.0.0",
   "description": "Backend system for Moroccan student grading application",
-  "main": "server.js",
+  "main": "backend_server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node backend_server.js",
     "dev": "nodemon server.js",
     "test": "jest",
     "build": "npm install --production"
